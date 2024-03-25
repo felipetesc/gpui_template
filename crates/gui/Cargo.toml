@@ -1,0 +1,10 @@
+[package]
+name = "gui"
+license = "YOUR LICENSE"
+rust-version = "1.76"
+version = "0.1.0"
+authors = ["Your name <YOUR_EMAIL@MAIL.com>"]
+edition = "2021"
+
+[dependencies]
+gpui.workspace = true
